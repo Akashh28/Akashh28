@@ -17,7 +17,7 @@ ABT ME🧿
 ![](https://github-profile-trophy.vercel.app/?username=Akashh28&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Akashh28&icon=0&color=0)](https://visitcount.itsvg.in)
