@@ -1,9 +1,15 @@
+<!-- Animated Header -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0077ff&height=200&section=header&text=Akash%20%7C%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Akash</h1>
 
 <h3 align="center">🚀 Future Software Developer | Engineering Student | Tech Enthusiast</h3>
 
+<!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Future+Software+Developer;Web+Developer+in+Progress;Learning+New+Technologies;Building+Cool+Projects+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Future+Software+Developer;Web+Developer+in+Progress;Learning+New+Technologies;Building+Cool+Projects+🚀" />
 </p>
 
 ---
@@ -11,10 +17,10 @@
 # 👨‍💻 About Me
 
 🎓 Information Science Engineering Student  
-💻 Passionate about coding and building projects  
-📚 Currently learning Web Development and Programming  
-⚡ Exploring Java, Python, HTML, CSS and Git  
-🚀 Goal: Become a top software developer  
+💻 Passionate about **coding and building projects**  
+📚 Currently learning **Web Development**  
+⚡ Exploring **Java, Python, HTML, CSS & Git**  
+🚀 Goal: **Become a top software developer**
 
 ---
 
@@ -54,27 +60,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Developer Metrics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOURUSERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -93,8 +79,8 @@
 
 <p align="center">
 
-<a href="https://instagram.com/_dxamond_10_">
-<img src="https://img.shields.io/badge/Instagram-@_dxamond_10_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/_dxamond_10">
+<img src="https://img.shields.io/badge/Instagram-@_dxamond_10-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
@@ -111,10 +97,18 @@
 
 ---
 
-# 💡 Developer Quote
+# 🐍 Contribution Snake
 
-> "Code. Learn. Build. Repeat."
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ---
 
-⭐ If you like my projects, consider giving them a star!
+<!-- Animated Footer -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077ff,100:00F7FF&height=120&section=footer"/>
+</p>
