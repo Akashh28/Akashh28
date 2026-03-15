@@ -1,59 +1,136 @@
-<h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">Engineering Student | Future Software Developer 💻</h3>
+<h1 align="center">
+Hi 👋, I'm Akash
+</h1>
+
+<h3 align="center">
+🚀 Engineering Student | Future Software Developer | Tech Explorer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Future+Software+Developer;Web+Developer;Learning+New+Technologies;Building+Cool+Projects" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 I'm an **ISE Engineering Student**
-- 🌱 Currently learning **Web Development & Programming**
-- 💡 Interested in **Software Development, Data Science, and Tech**
-- 🚀 Goal: Become a **Skilled Software Developer**
-- ⚡ Fun fact: I love learning new tech every day
+# 👨‍💻 About Me
+
+🎓 I’m an **ISE Engineering Student**  
+💻 Passionate about **Software Development**  
+📚 Currently learning **Web Development & Programming**  
+🚀 Goal: Become a **Top Software Engineer**  
+⚡ Fun fact: *I love building projects and learning new tech*
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 Currently Learning
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+• HTML  
+• CSS  
+• Java  
+• Python  
+• Git & GitHub  
+• Web Development  
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Tech Stack
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+### 👨‍💻 Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+
+### ⚙️ Tools
+
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight)
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOURUSERNAME&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOURUSERNAME/YOURUSERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
 🔹 Amazon Clone  
-🔹 Mini Python Projects  
-🔹 HTML & CSS Practice Projects  
+🔹 HTML & CSS Mini Projects  
+🔹 Java Programs  
+🔹 Python Mini Projects  
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_LINK)
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINK)
+<a href="YOUR_LINK">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-⭐ **"Code. Learn. Build. Repeat."**
+# 💡 Quote
+
+> **“Code. Learn. Build. Repeat.”**
+
+---
+
+⭐ If you like my projects, **give them a star!**
