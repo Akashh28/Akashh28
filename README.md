@@ -13,10 +13,9 @@
 
 # 👨‍💻 About Me
 
-🎓 Information Science Engineering Student  
-💻 Passionate about coding and building projects  
-📚 Currently learning Web Development and Programming  
-⚡ Exploring Java, Python, HTML, CSS and Git   
+🎓 Information Science Engineering 
+
+   
 
 ---
 
