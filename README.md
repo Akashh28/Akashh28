@@ -14,6 +14,7 @@
 # 👨‍💻 About Me
 
 🎓 Information Science Engineering 
+👾AIML ❗️
 
    
 
