@@ -1,18 +1,14 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,50:312e81,100:06b6d4&text=AKASHH28&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=BUILD.%20BREAK.%20LEARN.%20REPEAT.&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Information+Science+Engineering+Student;Aspiring+Software+Developer;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Projects;Learning+Something+New+Every+Day" alt="Typing SVG"/><br/><a href="https://github.com/Akashh28"><img src="https://img.shields.io/badge/GitHub-Akashh28-181717?style=for-the-badge&logo=github"/></a> <a href="https://www.instagram.com/_dxamond_10/"><img src="https://img.shields.io/badge/Instagram-_dxamond__10-E4405F?style=for-the-badge&logo=instagram"/></a> <a href="https://www.linkedin.com/in/k-akashh-114796351/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090b,50:312e81,100:06b6d4&text=Akashh&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=BUILD.%20BREAK.%20LEARN.%20REPEAT.&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Information+Science+Engineering+Student;Aspiring+Software+Developer;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Projects;Learning+Something+New+Every+Day" alt="Typing SVG"/><br/><a href="https://github.com/Akashh28"><img src="https://img.shields.io/badge/GitHub-Akashh28-181717?style=for-the-badge&logo=github"/></a> <a href="https://www.instagram.com/_dxamond_10/"><img src="https://img.shields.io/badge/Instagram-_dxamond__10-E4405F?style=for-the-badge&logo=instagram"/></a> <a href="https://www.linkedin.com/in/k-akashh-114796351/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a></div>
 
-⸻
 
-👨‍💻 About Me
 
-╭────────────────────────────────────────╮
-│ USER       : Akashh                    │
-│ ROLE       : Information Science Eng.  │
-│ FOCUS      : Software Development      │
-│ EXPLORING  : AI & Machine Learning     │
-│ MINDSET    : Learn. Build. Repeat.     │
-╰────────────────────────────────────────╯
+## 👨‍💻 About Me
 
-🎓 Information Science Engineering student • 💻 Aspiring Software Developer • 🤖 Exploring AI and Machine Learning • 🌐 Interested in Web Development • 🚀 Building projects and improving my skills every day • 🏴‍☠️ One Piece fan who believes in never giving up.
+- 🎓 Information Science Engineering student.
+- 💻 Aspiring Software Developer.
+- 🤖 Exploring AI and Machine Learning.
+- 🌐 Interested in Web Development.
+- 🚀 Building projects and improving my skills.
 
 ⚡ Tech Stack
 
@@ -41,10 +37,6 @@
 STATUS: ALWAYS LEARNING...
 
 </div>
-
-🏴‍☠️ The One Piece Mindset
-
-<div align="center"><img src="https://media.giphy.com/media/C3brYLms1bhv2/giphy.gif" width="250" alt="Anime Inspiration"/><h3>Dream big. Take risks. Never give up.</h3><i>Stay curious. Keep learning. Keep building.</i></div>
 
 🌐 Connect With Me
 
