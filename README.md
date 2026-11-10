@@ -27,8 +27,9 @@
 
 <br><br>
 
-## WHAT I'M BUILDING
-
+<p align="center">
+  <img src="./cards/section-title.svg" width="100%" alt="What I'm building"/>
+</p>
 <br>
 
 <a href="https://github.com/Akashh28/CodeAlpha_BasicChatbot">
