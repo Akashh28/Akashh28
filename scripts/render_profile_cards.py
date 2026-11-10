@@ -264,6 +264,7 @@ def render_all(fonts):
         value=n*0.52; n+=1
         return value
     render_hero(fonts,delay(),animated)
+    render_section_title(fonts,delay(),animated)
     for i,item in enumerate(TILES,1): render_tile(i,item,fonts,delay(),animated)
     render_activity(m,fonts,delay(),animated)
     for i,repo in enumerate(REPOS,1): render_repo(repo,i,fonts,delay(),animated)
