@@ -76,6 +76,22 @@
 <br>
 
 
+<br>
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akashh28/Akashh28/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akashh28/Akashh28/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Akashh28/Akashh28/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+<br>
+
+
+
 **BUILD · LEARN · REPEAT**
 
 </div>
