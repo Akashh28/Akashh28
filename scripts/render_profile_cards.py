@@ -223,15 +223,46 @@ def render_activity(m,fonts,delay,animated):
         s+=txt(x+bar_w/2,287,month["label"],10,MUTED,500).replace(f'x="{x+bar_w/2:.1f}"',f'x="{x+bar_w/2:.1f}" text-anchor="middle"')
     save("activity.svg",s+svg_end())
 
-def render_repo(repo,index,fonts,delay,animated):
-    s=svg_start(1200,180,repo["name"],fonts,delay,animated)
-    s+=txt(42,47,f"FEATURED REPOSITORY  /  0{index}",12,PURPLE,700)+txt(42,91,repo["name"],28,TEXT,700,"heading")
-    s+=txt(42,125,repo["desc"],15,MUTED)
-    s+=f'<rect x="42" y="143" width="220" height="24" rx="12" fill="{PURPLE}" fill-opacity=".13" stroke="{PURPLE}" stroke-opacity=".35"/>'
-    s+=txt(152,160,repo["lang"],11,PURPLE,700).replace('x="152"','x="152" text-anchor="middle"')
-    button_text = txt(1075, 96, "VIEW REPO  ↗", 12, BG, 700).replace('x="1075"', 'x="1075" text-anchor="middle"')
-    s += f'<a href="{escape(repo["url"])}"><rect x="1000" y="66" width="150" height="48" rx="24" fill="url(#accent)"/>{button_text}</a>'
-    save(f"repo-0{index}.svg",s+svg_end())
+
+def render_repo(repo, index, fonts, delay, animated):
+    s = svg_start(380, 220, repo["name"], fonts, delay, animated)
+
+    s += txt(24, 32, f"PROJECT / 0{index}", 10, PURPLE, 700)
+    s += txt(24, 70, repo["name"], 19, TEXT, 700, "heading")
+
+    # Wrap project description
+    words = repo["desc"].split()
+    lines = []
+    line = ""
+
+    for word in words:
+        candidate = f"{line} {word}".strip()
+        if len(candidate) > 38:
+            lines.append(line)
+            line = word
+        else:
+            line = candidate
+
+    if line:
+        lines.append(line)
+
+    for i, description in enumerate(lines[:3]):
+        s += txt(24, 108 + i * 19, description, 11, MUTED)
+
+    # Language label
+    s += f'<rect x="24" y="177" width="150" height="25" rx="12" fill="{PURPLE}" fill-opacity=".13" stroke="{PURPLE}" stroke-opacity=".35"/>'
+    s += txt(99, 194, repo["lang"], 10, PURPLE, 700).replace(
+        'x="99"', 'x="99" text-anchor="middle"'
+    )
+
+    # Repository link
+    button_text = txt(310, 194, "VIEW ↗", 10, BG, 700).replace(
+        'x="310"', 'x="310" text-anchor="middle"'
+    )
+    s += f'<a href="{escape(repo["url"])}"><rect x="245" y="177" width="110" height="25" rx="12" fill="url(#accent)"/>{button_text}</a>'
+
+    save(f"repo-0{index}.svg", s + svg_end())
+
 
 def render_graph(m,fonts,delay,animated):
     s=svg_start(1200,190,"GitHub contribution graph",fonts,delay,animated)
