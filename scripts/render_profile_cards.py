@@ -257,19 +257,40 @@ def render_section_title(fonts, delay, animated):
     save("section-title.svg", s + svg_end())
 
 
+
 def render_all(fonts):
-    m=calculate_metrics(load_days()); animated=not STATIC; n=0
+    m = calculate_metrics(load_days())
+    animated = not STATIC
+    n = 0
+
     def delay():
         nonlocal n
-        value=n*0.52; n+=1
+        value = n * 0.52
+        n += 1
         return value
-    render_hero(fonts,delay(),animated)
-    render_section_title(fonts,delay(),animated)
-    for i,item in enumerate(TILES,1): render_tile(i,item,fonts,delay(),animated)
-    render_activity(m,fonts,delay(),animated)
-    for i,repo in enumerate(REPOS,1): render_repo(repo,i,fonts,delay(),animated)
-    render_graph(m,fonts,delay(),animated)
+
+    # Hero banner
+    render_hero(fonts, delay(), animated)
+
+    # BUILD / BRAND / LEARN cards
+    for i, item in enumerate(TILES, 1):
+        render_tile(i, item, fonts, delay(), animated)
+
+    # Contribution activity
+    render_activity(m, fonts, delay(), animated)
+
+    # Featured projects heading
+    render_section_title(fonts, delay(), animated)
+
+    # Featured repositories
+    for i, repo in enumerate(REPOS, 1):
+        render_repo(repo, i, fonts, delay(), animated)
+
+    # GitHub contribution graph
+    render_graph(m, fonts, delay(), animated)
+
     print(f"Rendered {len(list(OUT.glob('*.svg')))} SVG cards in {OUT}")
+
 
 def main():
     parser=argparse.ArgumentParser(description=__doc__)
