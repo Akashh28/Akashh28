@@ -20,11 +20,18 @@ FONT_URLS = {
     "dm": "https://raw.githubusercontent.com/google/fonts/main/ofl/dmsans/DMSans[opsz,wght].ttf",
     "space": "https://raw.githubusercontent.com/google/fonts/main/ofl/spacegrotesk/SpaceGrotesk[wght].ttf",
 }
+
 TILES = [
-    ("01", "ABOUT ME", "ISE student · AI/ML learner", "https://akashh28.github.io/portfolioo/#about", PURPLE),
-    ("02", "PROJECTS", "Small builds, real progress", "https://github.com/Akashh28?tab=repositories", BLUE),
-    ("03", "LET'S CONNECT", "Ideas, learning & collaboration", "https://www.linkedin.com/in/k-akashh-114796351/", GREEN),
+    ("01", "BUILD", "Python projects & practical builds",
+     "https://github.com/Akashh28?tab=repositories", PURPLE),
+
+    ("02", "BRAND", "My portfolio & developer identity",
+     "https://akashh28.github.io/portfolioo/", BLUE),
+
+    ("03", "LEARN", "AI/ML · Python · Information Science",
+     "https://github.com/Akashh28", GREEN),
 ]
+
 REPOS = [
     {"name":"CodeAlpha_BasicChatbot","desc":"A beginner-friendly, rule-based Python chatbot built for the CodeAlpha internship.","lang":"Python","url":"https://github.com/Akashh28/CodeAlpha_BasicChatbot"},
     {"name":"simplecalci","desc":"A command-line calculator for basic arithmetic, including division-by-zero handling.","lang":"Python","url":"https://github.com/Akashh28/simplecalci"},
