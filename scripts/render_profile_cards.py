@@ -249,6 +249,14 @@ def render_graph(m,fonts,delay,animated):
     s+=txt(205,180,"MORE",10,MUTED,500)
     save("contributions.svg",s+svg_end())
 
+    
+def render_section_title(fonts, delay, animated):
+    s = svg_start(1200, 110, "What I'm building", fonts, delay, animated)
+    s += txt(42, 45, "WHAT I'M BUILDING", 13, PURPLE, 700)
+    s += txt(42, 83, "Selected projects & experiments", 27, TEXT, 700, "heading")
+    save("section-title.svg", s + svg_end())
+
+
 def render_all(fonts):
     m=calculate_metrics(load_days()); animated=not STATIC; n=0
     def delay():
