@@ -32,21 +32,19 @@
 </p>
 <br>
 
-<a href="https://github.com/Akashh28/CodeAlpha_BasicChatbot">
-  <img src="./cards/repo-01.svg" width="100%" alt="Python chatbot project"/>
-</a>
 
-<br>
+<p align="center">
+  <a href="https://github.com/Akashh28/CodeAlpha_BasicChatbot">
+    <img src="./cards/repo-01.svg" width="32.5%" alt="Python chatbot"/>
+  </a>
+  <a href="https://github.com/Akashh28/simplecalci">
+    <img src="./cards/repo-02.svg" width="32.5%" alt="Python calculator"/>
+  </a>
+  <a href="https://github.com/Akashh28/portfolioo">
+    <img src="./cards/repo-03.svg" width="32.5%" alt="Portfolio website"/>
+  </a>
+</p>
 
-<a href="https://github.com/Akashh28/simplecalci">
-  <img src="./cards/repo-02.svg" width="100%" alt="Python calculator project"/>
-</a>
-
-<br>
-
-<a href="https://github.com/Akashh28/portfolioo">
-  <img src="./cards/repo-03.svg" width="100%" alt="Personal portfolio project"/>
-</a>
 
 <br><br>
 
