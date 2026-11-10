@@ -102,6 +102,16 @@
 <br>
 
 
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akashh28&label=PROFILE+VIEWS&color=9a8cff&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<br>
+
+
+
 
 **BUILD · LEARN · REPEAT**
 
