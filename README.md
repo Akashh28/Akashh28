@@ -60,6 +60,22 @@
   </a>
 </p>
 
+
+<br>
+
+<h2 align="center">⚡ TECH STACK & TOOLS</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=9A8CFF&center=true&vCenter=true&width=500&lines=Building+with+Python;Exploring+AI+%26+Machine+Learning;Learning+and+Creating+Every+Day" />
+</p>
+
+<br>
+
+
 **BUILD · LEARN · REPEAT**
 
 </div>
